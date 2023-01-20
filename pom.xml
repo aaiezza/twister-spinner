@@ -31,7 +31,7 @@
     <dependency>
       <groupId>io.airlift</groupId>
       <artifactId>log</artifactId>
-      <version>207</version>
+      <version>223</version>
     </dependency>
 
     <!-- Testing -->
